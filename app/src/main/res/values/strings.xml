@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Simple-Translator</string>
     <string name="translate">Перевести</string>
-    <string name="input_text">Введите текст для перевода</string>
+    <string name="input_text">Введите слово для перевода</string>
     <string name="tranlate_text">Перевод</string>
+    <string name="en">С русского на английский</string>
+    <string name="ru">С английского на русский</string>
 </resources>
