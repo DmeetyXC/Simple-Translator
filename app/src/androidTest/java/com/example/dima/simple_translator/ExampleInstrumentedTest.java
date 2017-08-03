@@ -1,4 +1,4 @@
-package com.example.dima.simple_translator222;
+package com.example.dima.simple_translator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
